@@ -1,0 +1,106 @@
+body {
+  min-width: 400px;
+  position: relative;
+  vertical-align:middle;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.urlWEB
+{
+
+  background-color: #42C2FF;
+  color: #EFFFFD;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+
+.passwordRow
+{
+  margin: 5px;
+}
+
+
+.inputPassword
+{
+  padding: 5px;
+  background-color: #DFDFDF;
+  color: #272727;
+  border-style: none;
+  font-weight: bold;
+  width: 102%;
+  height: 100%;
+  text-align: center;
+
+}
+
+.passwordCol
+{ margin: 0px;
+  padding: 0px;
+}
+
+
+.copyCol
+{
+  background-color: #40DFEF ;
+  border-style : none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.copy {
+  color: #fff;
+}
+
+.resetPassword
+{
+  width: 100%;
+  background-color: #40DFEF;
+  color: #fff;
+  padding: 5px;
+  font-weight: bolder;
+  width: 98%;
+  height: 100%;
+  text-align: center;
+}
+
+
+
+.copycol2
+{
+  background-color: #FFE61B;
+  border-style : none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+
+
+
+.urlDom
+{
+  background-color: pink;
+}
+.savePassword
+{
+  width: 100%;
+  background-color: pink;
+  color: #fff;
+  padding: 5px;
+  font-weight: bolder;
+  width: 98%;
+  height: 100%;
+  text-align: center;
+}
+
+
+
+.inpw
+{
+  background-color: #fff;
+}

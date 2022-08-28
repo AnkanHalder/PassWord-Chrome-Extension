@@ -1,0 +1,24 @@
+{
+  "manifest_version" : 3,
+  "name" : "PassWord",
+  "version" : "0.1",
+  "description" : "A PassWord saver/generator",
+  "icons" : {
+    "128" : "sign128.png",
+    "48" : "sign48.png",
+    "16" : "sign16.png"
+  },
+
+  "action" : {
+    "default_icon" : "sign128.png",
+    "default_popup" : "popup.html"
+  },
+
+  "permissions":
+      [ "tabs" , "storage"],
+
+      
+    "content_security_policy": {
+      "script-src" : "'self' https://maxcdn.bootstrapcdn.com",
+       "object-src":  "'self'" }
+}
